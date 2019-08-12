@@ -22,6 +22,18 @@ I will keep updating the list as per my usage.
 
 <img src="https://dracula-theme.gallerycdn.vsassets.io/extensions/dracula-theme/theme-dracula/2.18.0/1556936500928/Microsoft.VisualStudio.Services.Icons.Default" alt="Dracula Official by Dracula Theme" width="30" /> [Dracula Official by Dracula Theme](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 
+<img src="https://lkytal.gallerycdn.vsassets.io/extensions/lkytal/flatui/1.4.9/1543358291795/Microsoft.VisualStudio.Services.Icons.Default" alt="Flat UI by Kaiyuan Liu" width="30" /> [Flat UI by Kaiyuan Liu](https://marketplace.visualstudio.com/items?itemName=lkytal.FlatUI)
+
+<img src="https://2ndshift.gallerycdn.vsassets.io/extensions/2ndshift/fresh-material/2.3.8/1539177846507/Microsoft.VisualStudio.Services.Icons.Default" alt="Fresh Material by Rich Hamburg" width="30" /> [Fresh Material by Rich Hamburg](https://marketplace.visualstudio.com/items?itemName=2ndshift.fresh-material)
+
+<img src="https://hyzeta.gallerycdn.vsassets.io/extensions/hyzeta/vscode-theme-github-light/7.0.0/1563950131119/Microsoft.VisualStudio.Services.Icons.Default" alt="Github Light Theme by Hyzeta" width="30" /> [Github Light Theme by Hyzeta](https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light)
+
+<img src="https://thenikso.gallerycdn.vsassets.io/extensions/thenikso/github-plus-theme/1.2.0/1549741612482/Microsoft.VisualStudio.Services.Icons.Default" alt="GitHub Plus Theme by thenikso" width="30" /> [GitHub Plus Theme by thenikso](https://marketplace.visualstudio.com/items?itemName=thenikso.github-plus-theme)
+
+<img src="https://thomaspink.gallerycdn.vsassets.io/extensions/thomaspink/theme-github/1.0.1/1501829974043/Microsoft.VisualStudio.Services.Icons.Default" alt="Github Theme by Thomas Pink" width="30" /> [Github Theme by Thomas Pink](https://marketplace.visualstudio.com/items?itemName=thomaspink.theme-github)
+
+<img src="https://8757043a-2b24-42c2-9de6-233a1f5267f3.gallerycdn.vsassets.io/extensions/8757043a-2b24-42c2-9de6-233a1f5267f3/gloom-dark/0.1.3/1520731018108/Microsoft.VisualStudio.Services.Icons.Default" alt="Gloom Dark by Muny-" width="30" /> [Gloom Dark by Muny-](https://marketplace.visualstudio.com/items?itemName=8757043a-2b24-42c2-9de6-233a1f5267f3.gloom-dark)
+
 
 ## Utilities
 <img src="https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/auto-rename-tag/0.1.0/1559468613066/Microsoft.VisualStudio.Services.Icons.Default" alt="Auto Rename Tag by Jun Han" width="30" /> [Auto Rename Tag by Jun Han](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
@@ -38,9 +50,7 @@ I will keep updating the list as per my usage.
 
 <img src="https://dsznajder.gallerycdn.vsassets.io/extensions/dsznajder/es7-react-js-snippets/2.4.0/1564075453848/Microsoft.VisualStudio.Services.Icons.Default" alt="ES7 React/Redux/GraphQL/React-Native snippets by dsznajder" width="30" /> [ES7 React/Redux/GraphQL/React-Native snippets by dsznajder](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
+<img src="https://dbaeumer.gallerycdn.vsassets.io/extensions/dbaeumer/vscode-eslint/1.9.0/1557865213792/Microsoft.VisualStudio.Services.Icons.Default" alt="ESLint by Dirk Baeumer" width="30" /> [ESLint by Dirk Baeumer](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
-
-
-
-
+<img src="https://donjayamanne.gallerycdn.vsassets.io/extensions/donjayamanne/githistory/0.4.6/1548910545220/Microsoft.VisualStudio.Services.Icons.Default" alt="Git History by Don Jayamanne" width="30" /> [Git History by Don Jayamanne](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 
