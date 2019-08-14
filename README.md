@@ -34,6 +34,10 @@ I will keep updating the list as per my usage.
 
 <img src="https://8757043a-2b24-42c2-9de6-233a1f5267f3.gallerycdn.vsassets.io/extensions/8757043a-2b24-42c2-9de6-233a1f5267f3/gloom-dark/0.1.3/1520731018108/Microsoft.VisualStudio.Services.Icons.Default" alt="Gloom Dark by Muny-" width="30" /> [Gloom Dark by Muny-](https://marketplace.visualstudio.com/items?itemName=8757043a-2b24-42c2-9de6-233a1f5267f3.gloom-dark)
 
+<img src="https://jolaleye.gallerycdn.vsassets.io/extensions/jolaleye/horizon-theme-vscode/2.0.2/1561137102480/Microsoft.VisualStudio.Services.Icons.Default" alt="Horizon Theme by Jonathan Olaleye" width="30" /> [Horizon Theme by Jonathan Olaleye](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode)
+
+
+
 
 ## Utilities
 <img src="https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/auto-rename-tag/0.1.0/1559468613066/Microsoft.VisualStudio.Services.Icons.Default" alt="Auto Rename Tag by Jun Han" width="30" /> [Auto Rename Tag by Jun Han](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
@@ -53,4 +57,10 @@ I will keep updating the list as per my usage.
 <img src="https://dbaeumer.gallerycdn.vsassets.io/extensions/dbaeumer/vscode-eslint/1.9.0/1557865213792/Microsoft.VisualStudio.Services.Icons.Default" alt="ESLint by Dirk Baeumer" width="30" /> [ESLint by Dirk Baeumer](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 <img src="https://donjayamanne.gallerycdn.vsassets.io/extensions/donjayamanne/githistory/0.4.6/1548910545220/Microsoft.VisualStudio.Services.Icons.Default" alt="Git History by Don Jayamanne" width="30" /> [Git History by Don Jayamanne](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+
+<img src="https://ecmel.gallerycdn.vsassets.io/extensions/ecmel/vscode-html-css/0.2.0/1515761891539/Microsoft.VisualStudio.Services.Icons.Default" alt="HTML CSS Support by ecmel" width="30" /> [HTML CSS Support by ecmel](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+
+<img src="https://riazxrazor.gallerycdn.vsassets.io/extensions/riazxrazor/html-to-jsx/0.0.1/1526326855593/Microsoft.VisualStudio.Services.Icons.Default" alt="html to JSX by Riaz Laskar" width="30" /> [html to JSX by Riaz Laskar](https://marketplace.visualstudio.com/items?itemName=riazxrazor.html-to-jsx)
+
+<img src="https://zignd.gallerycdn.vsassets.io/extensions/zignd/html-css-class-completion/1.19.0/1558208838135/Microsoft.VisualStudio.Services.Icons.Default" alt="IntelliSense for CSS class names in HTML by Zignd" width="30" /> [IntelliSense for CSS class names in HTML by Zignd](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
 
