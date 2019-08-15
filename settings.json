@@ -1,0 +1,19 @@
+{
+    "editor.fontFamily": "'Consolas', 'Source Code Pro', 'Fira Code Retina'",
+    "editor.lineHeight": 40,
+    "editor.fontLigatures": true,
+    "debug.console.fontSize": 18,
+    "markdown.preview.fontSize": 16,
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "prettier.tabWidth": 4,
+    "workbench.activityBar.visible": true,
+    "window.zoomLevel": 0,
+    "prettier.singleQuote": true,
+    "workbench.tree.indent": 30,
+    "workbench.iconTheme": "simple-icons",
+    "workbench.colorTheme": "Bluloco Light",
+    "editor.fontSize": 17
+}
