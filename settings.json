@@ -15,5 +15,8 @@
     "workbench.tree.indent": 30,
     "workbench.iconTheme": "simple-icons",
     "workbench.colorTheme": "Bluloco Light",
-    "editor.fontSize": 17
+    "editor.fontSize": 14,
+    "search.exclude": {
+        "**/.history": true
+    },
 }
