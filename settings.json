@@ -1,22 +1,19 @@
 {
-    "editor.fontFamily": "'Consolas', 'Source Code Pro', 'Fira Code Retina'",
-    "editor.lineHeight": 40,
-    "editor.fontLigatures": true,
     "debug.console.fontSize": 18,
+    "editor.fontFamily": "Fira Code Retina, Roboto Mono, 'YaHei Consolas Hybrid', Source Code Pro",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "editor.lineHeight": 40,
+    "editor.mouseWheelZoom": true,
+    "editor.suggestSelection": "first",
     "markdown.preview.fontSize": 16,
     "terminal.integrated.fontSize": 16,
-    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
-    "editor.formatOnSave": true,
-    "editor.formatOnType": true,
-    "prettier.tabWidth": 4,
-    "workbench.activityBar.visible": true,
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "window.zoomLevel": 0,
-    "prettier.singleQuote": true,
-    "workbench.tree.indent": 30,
-    "workbench.iconTheme": "simple-icons",
-    "workbench.colorTheme": "Bluloco Light",
-    "editor.fontSize": 14,
+    "workbench.colorTheme": "Solarized Light",
+    "workbench.activityBar.visible": true,
+    "workbench.tree.indent": 24,
     "search.exclude": {
         "**/.history": true
-    },
+    }
 }
