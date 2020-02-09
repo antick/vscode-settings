@@ -1,4 +1,4 @@
-# My VSCode Extensions
+# My VSCode Settings
 I will keep updating the list as per my usage.
 
 ## Themes
@@ -32,8 +32,6 @@ I will keep updating the list as per my usage.
 
 [Github Theme by Thomas Pink](https://marketplace.visualstudio.com/items?itemName=thomaspink.theme-github) <img src="https://thomaspink.gallerycdn.vsassets.io/extensions/thomaspink/theme-github/1.0.1/1501829974043/Microsoft.VisualStudio.Services.Icons.Default" alt="Github Theme by Thomas Pink" width="30" />
 
-[Gloom Dark by Muny-](https://marketplace.visualstudio.com/items?itemName=8757043a-2b24-42c2-9de6-233a1f5267f3.gloom-dark) <img src="https://8757043a-2b24-42c2-9de6-233a1f5267f3.gallerycdn.vsassets.io/extensions/8757043a-2b24-42c2-9de6-233a1f5267f3/gloom-dark/0.1.3/1520731018108/Microsoft.VisualStudio.Services.Icons.Default" alt="Gloom Dark by Muny-" width="30" />
-
 [Horizon Theme by Jonathan Olaleye](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode) <img src="https://jolaleye.gallerycdn.vsassets.io/extensions/jolaleye/horizon-theme-vscode/2.0.2/1561137102480/Microsoft.VisualStudio.Services.Icons.Default" alt="Horizon Theme by Jonathan Olaleye" width="30" />
 
 [Kary Pro Colors by Pouya Kary](https://marketplace.visualstudio.com/items?itemName=karyfoundation.theme-karyfoundation-themes) <img src="https://karyfoundation.gallerycdn.vsassets.io/extensions/karyfoundation/theme-karyfoundation-themes/18.2.1/1534774733577/Microsoft.VisualStudio.Services.Icons.Default" alt="Kary Pro Colors by Pouya Kary" width="30" />
@@ -46,29 +44,15 @@ I will keep updating the list as per my usage.
 
 [Oceanic Next Custom Dark by Shaw](https://marketplace.visualstudio.com/items?itemName=shawdaddy.oceanic-next-custom-dark) <img src="https://shawdaddy.gallerycdn.vsassets.io/extensions/shawdaddy/oceanic-next-custom-dark/1.0.9/1518365954352/Microsoft.VisualStudio.Services.Icons.Default" alt="Oceanic Next Custom Dark by Shaw" width="30" />
 
-[One Dark Flatland Monokai by Enrico Baculinao](https://marketplace.visualstudio.com/items?itemName=reblws.one-dark-flatland-monokai) <img src="https://reblws.gallerycdn.vsassets.io/extensions/reblws/one-dark-flatland-monokai/0.1.0/1501085295169/Microsoft.VisualStudio.Services.Icons.Default" alt="One Dark Flatland Monokai by Enrico Baculinao" width="30" />
-
-[One Dark Plus by anaganisk](https://marketplace.visualstudio.com/items?itemName=anaganisk.theme-onedark-plus) <img src="https://anaganisk.gallerycdn.vsassets.io/extensions/anaganisk/theme-onedark-plus/2.0.0/1493983486758/Microsoft.VisualStudio.Services.Icons.Default" alt="One Dark Plus by anaganisk" width="30" />
-
 [One Dark Pro by binaryify](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) <img src="https://zhuangtongfa.gallerycdn.vsassets.io/extensions/zhuangtongfa/material-theme/2.26.3/1565256399423/Microsoft.VisualStudio.Services.Icons.Default" alt="One Dark Pro by binaryify" width="30" />
 
-[One Dark Theme by Joshua Azemoh](https://marketplace.visualstudio.com/items?itemName=azemoh.theme-onedark) <img src="https://azemoh.gallerycdn.vsassets.io/extensions/azemoh/theme-onedark/0.5.2/1500048561759/Microsoft.VisualStudio.Services.Icons.Default" alt="One Dark Theme by Joshua Azemoh" width="30" />
-
 [Outrun by samrapdev](https://marketplace.visualstudio.com/items?itemName=samrapdev.outrun) <img src="https://samrapdev.gallerycdn.vsassets.io/extensions/samrapdev/outrun/0.2.2/1535400650033/Microsoft.VisualStudio.Services.Icons.Default" alt="Outrun by samrapdev" width="30" />
-
-[Panda Theme by Panda Theme](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda) <img src="https://tinkertrain.gallerycdn.vsassets.io/extensions/tinkertrain/theme-panda/1.3.0/1530376360846/Microsoft.VisualStudio.Services.Icons.Default" alt="Panda Theme by Panda Theme" width="30" />
 
 [Rainglow by Dayle Rees](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow) <img src="https://daylerees.gallerycdn.vsassets.io/extensions/daylerees/rainglow/1.5.2/1515370316626/Microsoft.VisualStudio.Services.Icons.Default" alt="Rainglow by Dayle Rees" width="30" />
 
 [Seven-dark by lianginet](https://marketplace.visualstudio.com/items?itemName=lianginet.seven-dark) <img src="https://lianginet.gallerycdn.vsassets.io/extensions/lianginet/seven-dark/0.1.5/1563532286661/Microsoft.VisualStudio.Services.Icons.Default" alt="Seven-dark by lianginet" width="30" />
 
-[Shades of Purple by Ahmad Awais ⚡](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) <img src="https://ahmadawais.gallerycdn.vsassets.io/extensions/ahmadawais/shades-of-purple/5.14.0/1565366724640/Microsoft.VisualStudio.Services.Icons.Default" alt="Shades of Purple by Ahmad Awais ⚡" width="30" />
-
 [Signed Dark Pro by alex-munene](https://marketplace.visualstudio.com/items?itemName=alex-munene.signed-dark-pro) <img src="https://alex-munene.gallerycdn.vsassets.io/extensions/alex-munene/signed-dark-pro/1.4.0/1563627326408/Microsoft.VisualStudio.Services.Icons.Default" alt="Signed Dark Pro by alex-munene" width="30" />
-
-[SIMPLE DARK by in-the-box](https://marketplace.visualstudio.com/items?itemName=in-the-box.simple-dark) <img src="https://in-the-box.gallerycdn.vsassets.io/extensions/in-the-box/simple-dark/0.9.3/1521810820833/Microsoft.VisualStudio.Services.Icons.Default" alt="SIMPLE DARK by in-the-box" width="30" />
-
-[Sublime Material Theme by Jarvis Prestidge](https://marketplace.visualstudio.com/items?itemName=jprestidge.theme-material-theme) <img src="https://jprestidge.gallerycdn.vsassets.io/extensions/jprestidge/theme-material-theme/1.0.1/1480219435040/Microsoft.VisualStudio.Services.Icons.Default" alt="Sublime Material Theme by Jarvis Prestidge" width="30" />
 
 [Subway (dark) by idleberg](https://marketplace.visualstudio.com/items?itemName=idleberg.subway-dark) <img src="https://idleberg.gallerycdn.vsassets.io/extensions/idleberg/subway-dark/1.0.6/1507668727132/Microsoft.VisualStudio.Services.Icons.Default" alt="Subway (dark) by idleberg" width="30" />
 
