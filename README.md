@@ -68,6 +68,8 @@ I will keep updating the list as per my usage.
 
 [Babel JavaScript by Michael McDermott](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) <img src="https://mgmcdermott.gallerycdn.vsassets.io/extensions/mgmcdermott/vscode-language-babel/0.0.23/1563413347109/Microsoft.VisualStudio.Services.Icons.Default" alt="Babel JavaScript by Michael McDermott" width="30" />
 
+[Code Runner by Jun Han](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) <img src="https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/code-runner/0.9.17/1583895830028/Microsoft.VisualStudio.Services.Icons.Default" alt="Code Runner by Jun Han" width="30" />
+
 [CSS Peek by Pranay Prakash](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) <img src="https://pranaygp.gallerycdn.vsassets.io/extensions/pranaygp/vscode-css-peek/3.0.2/1562261529706/Microsoft.VisualStudio.Services.Icons.Default" alt="CSS Peek by Pranay Prakash" width="30" />
 
 [Disable Ligatures by CoenraadS](https://marketplace.visualstudio.com/items?itemName=CoenraadS.disableligatures) <img src="https://coenraads.gallerycdn.vsassets.io/extensions/coenraads/disableligatures/0.0.8/1524334891086/Microsoft.VisualStudio.Services.Icons.Default" alt="Disable Ligatures by CoenraadS" width="30" />
