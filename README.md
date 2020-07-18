@@ -4,19 +4,11 @@ I will keep updating the list as per my usage.
 ## Themes
 [After Dark by Simeon Kerkola](https://marketplace.visualstudio.com/items?itemName=ssmi.after-dark) <img src="https://ssmi.gallerycdn.vsassets.io/extensions/ssmi/after-dark/1.3.2/1565284702065/Microsoft.VisualStudio.Services.Icons.Default" alt="After Dark by Simeon Kerkola" width="30" />
 
-[Ayu by teabyii](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu) <img src="https://teabyii.gallerycdn.vsassets.io/extensions/teabyii/ayu/0.18.0/1549249870008/Microsoft.VisualStudio.Services.Icons.Default" alt="Ayu by teabyii" width="30" />
-
-[Base16 Ocean Dark Extended Theme by Kleber Silva](https://marketplace.visualstudio.com/items?itemName=kleber-swf.ocean-dark-extended) <img src="https://kleber-swf.gallerycdn.vsassets.io/extensions/kleber-swf/ocean-dark-extended/1.5.0/1558398150068/Microsoft.VisualStudio.Services.Icons.Default" alt="Base16 Ocean Dark Extended Theme by Kleber Silva" width="30" />
-
-[Bluloco Dark by Umut Topuzoğlu](https://marketplace.visualstudio.com/items?itemName=uloco.theme-bluloco-dark) <img src="https://uloco.gallerycdn.vsassets.io/extensions/uloco/theme-bluloco-dark/2.8.1/1559346114580/Microsoft.VisualStudio.Services.Icons.Default" alt="Bluloco Dark by Umut Topuzoğlu" width="30" />
-
-[Bluloco Light by Umut Topuzoğlu](https://marketplace.visualstudio.com/items?itemName=uloco.theme-bluloco-light) <img src="https://uloco.gallerycdn.vsassets.io/extensions/uloco/theme-bluloco-light/2.8.1/1559343602765/Microsoft.VisualStudio.Services.Icons.Default" alt="Bluloco Light by Umut Topuzoğlu" width="30" />
+[Base16 Themes by AndrsDC](https://marketplace.visualstudio.com/items?itemName=AndrsDC.base16-themes) <img src="https://andrsdc.gallerycdn.vsassets.io/extensions/andrsdc/base16-themes/1.4.5/1517433979636/Microsoft.VisualStudio.Services.Icons.Default" alt="Base16 Themes by AndrsDC" width="30" />
 
 [Codex Effect by steamforge](https://marketplace.visualstudio.com/items?itemName=steamforge.codex-effect) <img src="https://steamforge.gallerycdn.vsassets.io/extensions/steamforge/codex-effect/1.0.0/1549072684205/Microsoft.VisualStudio.Services.Icons.Default" alt="Codex Effect by steamforge" width="30" />
 
 [Dang! Dark by Aaqa Ishtyaq](https://marketplace.visualstudio.com/items?itemName=aaqaIshtyaq.dang-theme-vscode) <img src="https://aaqaishtyaq.gallerycdn.vsassets.io/extensions/aaqaishtyaq/dang-theme-vscode/1.0.3/1547132356736/Microsoft.VisualStudio.Services.Icons.Default" alt="Dang! Dark by Aaqa Ishtyaq" width="30" />
-
-[Dark Red by fiazluthfi](https://marketplace.visualstudio.com/items?itemName=fiazluthfi.darkred) <img src="https://fiazluthfi.gallerycdn.vsassets.io/extensions/fiazluthfi/darkred/0.0.4/1556714386311/Microsoft.VisualStudio.Services.Icons.Default" alt="Dark Red by fiazluthfi" width="30" />
 
 [Dark Refined by itsjonq](https://marketplace.visualstudio.com/items?itemName=itsjonq.dark-refined) <img src="https://itsjonq.gallerycdn.vsassets.io/extensions/itsjonq/dark-refined/0.0.11/1553221512216/Microsoft.VisualStudio.Services.Icons.Default" alt="Dark Refined by itsjonq" width="30" />
 
@@ -28,31 +20,25 @@ I will keep updating the list as per my usage.
 
 [Github Light Theme by Hyzeta](https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light) <img src="https://hyzeta.gallerycdn.vsassets.io/extensions/hyzeta/vscode-theme-github-light/7.0.0/1563950131119/Microsoft.VisualStudio.Services.Icons.Default" alt="Github Light Theme by Hyzeta" width="30" />
 
-[GitHub Plus Theme by thenikso](https://marketplace.visualstudio.com/items?itemName=thenikso.github-plus-theme) <img src="https://thenikso.gallerycdn.vsassets.io/extensions/thenikso/github-plus-theme/1.2.0/1549741612482/Microsoft.VisualStudio.Services.Icons.Default" alt="GitHub Plus Theme by thenikso" width="30" />
+[GitHub Theme by GitHub](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) <img src="https://thenikso.gallerycdn.vsassets.io/extensions/thenikso/github-plus-theme/1.2.0/1549741612482/Microsoft.VisualStudio.Services.Icons.Default" alt="GitHub Theme by GitHub" width="30" />
 
 [Github Theme by Thomas Pink](https://marketplace.visualstudio.com/items?itemName=thomaspink.theme-github) <img src="https://thomaspink.gallerycdn.vsassets.io/extensions/thomaspink/theme-github/1.0.1/1501829974043/Microsoft.VisualStudio.Services.Icons.Default" alt="Github Theme by Thomas Pink" width="30" />
 
-[Horizon Theme by Jonathan Olaleye](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode) <img src="https://jolaleye.gallerycdn.vsassets.io/extensions/jolaleye/horizon-theme-vscode/2.0.2/1561137102480/Microsoft.VisualStudio.Services.Icons.Default" alt="Horizon Theme by Jonathan Olaleye" width="30" />
+[Horizon Theme by jolaleye](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode) <img src="https://jolaleye.gallerycdn.vsassets.io/extensions/jolaleye/horizon-theme-vscode/2.0.2/1561137102480/Microsoft.VisualStudio.Services.Icons.Default" alt="Horizon Theme by jolaleye" width="30" />
 
 [Kary Pro Colors by Pouya Kary](https://marketplace.visualstudio.com/items?itemName=karyfoundation.theme-karyfoundation-themes) <img src="https://karyfoundation.gallerycdn.vsassets.io/extensions/karyfoundation/theme-karyfoundation-themes/18.2.1/1534774733577/Microsoft.VisualStudio.Services.Icons.Default" alt="Kary Pro Colors by Pouya Kary" width="30" />
 
-[Liqube Dark Code by Liqube](https://marketplace.visualstudio.com/items?itemName=liqube.theme-liqube-dark) <img src="https://liqube.gallerycdn.vsassets.io/extensions/liqube/theme-liqube-dark/1.0.3/1510508465846/Microsoft.VisualStudio.Services.Icons.Default" alt="Liqube Dark Code by Liqube" width="30" />
-
-[Material Theme by Mattia Astorino](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) <img src="https://equinusocio.gallerycdn.vsassets.io/extensions/equinusocio/vsc-material-theme/30.0.0/1565620793758/Microsoft.VisualStudio.Services.Icons.Default" alt="Material Theme by Mattia Astorino" width="30" />
-
 [Monokai One Dark Vivid by ashpowell](https://marketplace.visualstudio.com/items?itemName=ashpowell.monokai-one-dark-vivid) <img src="https://ashpowell.gallerycdn.vsassets.io/extensions/ashpowell/monokai-one-dark-vivid/0.13.0/1520587203026/Microsoft.VisualStudio.Services.Icons.Default" alt="Monokai One Dark Vivid by ashpowell" width="30" />
 
-[Oceanic Next Custom Dark by Shaw](https://marketplace.visualstudio.com/items?itemName=shawdaddy.oceanic-next-custom-dark) <img src="https://shawdaddy.gallerycdn.vsassets.io/extensions/shawdaddy/oceanic-next-custom-dark/1.0.9/1518365954352/Microsoft.VisualStudio.Services.Icons.Default" alt="Oceanic Next Custom Dark by Shaw" width="30" />
-
 [One Dark Pro by binaryify](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) <img src="https://zhuangtongfa.gallerycdn.vsassets.io/extensions/zhuangtongfa/material-theme/2.26.3/1565256399423/Microsoft.VisualStudio.Services.Icons.Default" alt="One Dark Pro by binaryify" width="30" />
-
-[Outrun by samrapdev](https://marketplace.visualstudio.com/items?itemName=samrapdev.outrun) <img src="https://samrapdev.gallerycdn.vsassets.io/extensions/samrapdev/outrun/0.2.2/1535400650033/Microsoft.VisualStudio.Services.Icons.Default" alt="Outrun by samrapdev" width="30" />
 
 [Rainglow by Dayle Rees](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow) <img src="https://daylerees.gallerycdn.vsassets.io/extensions/daylerees/rainglow/1.5.2/1515370316626/Microsoft.VisualStudio.Services.Icons.Default" alt="Rainglow by Dayle Rees" width="30" />
 
 [Seven-dark by lianginet](https://marketplace.visualstudio.com/items?itemName=lianginet.seven-dark) <img src="https://lianginet.gallerycdn.vsassets.io/extensions/lianginet/seven-dark/0.1.5/1563532286661/Microsoft.VisualStudio.Services.Icons.Default" alt="Seven-dark by lianginet" width="30" />
 
 [Signed Dark Pro by alex-munene](https://marketplace.visualstudio.com/items?itemName=alex-munene.signed-dark-pro) <img src="https://alex-munene.gallerycdn.vsassets.io/extensions/alex-munene/signed-dark-pro/1.4.0/1563627326408/Microsoft.VisualStudio.Services.Icons.Default" alt="Signed Dark Pro by alex-munene" width="30" />
+
+[Subway by idleberg](https://marketplace.visualstudio.com/items?itemName=idleberg.subway) <img src="https://idleberg.gallerycdn.vsassets.io/extensions/idleberg/subway-dark/1.0.6/1507668727132/Microsoft.VisualStudio.Services.Icons.Default" alt="Subway by idleberg" width="30" />
 
 [Subway (dark) by idleberg](https://marketplace.visualstudio.com/items?itemName=idleberg.subway-dark) <img src="https://idleberg.gallerycdn.vsassets.io/extensions/idleberg/subway-dark/1.0.6/1507668727132/Microsoft.VisualStudio.Services.Icons.Default" alt="Subway (dark) by idleberg" width="30" />
 
