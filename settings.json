@@ -1,19 +1,19 @@
 {
     "debug.console.fontSize": 18,
-    "editor.fontFamily": "Fira Code Retina, Roboto Mono, 'YaHei Consolas Hybrid', Source Code Pro",
+    "editor.fontFamily": "Operator Mono Lig Light, Source Code Pro, Fira Code Retina",
     "editor.fontLigatures": true,
     "editor.fontSize": 14,
-    "editor.lineHeight": 40,
+    "editor.lineHeight": 36,
     "editor.mouseWheelZoom": true,
     "editor.suggestSelection": "first",
     "markdown.preview.fontSize": 16,
     "terminal.integrated.fontSize": 16,
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "window.zoomLevel": 0,
-    "workbench.colorTheme": "Solarized Light",
     "workbench.activityBar.visible": true,
     "workbench.tree.indent": 24,
     "search.exclude": {
         "**/.history": true
-    }
+    },
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Base16 Light London Tube"
 }
