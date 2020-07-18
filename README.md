@@ -48,8 +48,6 @@ I will keep updating the list as per my usage.
 
 
 ## Extensions
-[Auto Rename Tag by Jun Han](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) <img src="https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/auto-rename-tag/0.1.0/1559468613066/Microsoft.VisualStudio.Services.Icons.Default" alt="Auto Rename Tag by Jun Han" width="30" />
-
 [Auto-Open Markdown Preview by hnw](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
 
 [Babel JavaScript by Michael McDermott](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) <img src="https://mgmcdermott.gallerycdn.vsassets.io/extensions/mgmcdermott/vscode-language-babel/0.0.23/1563413347109/Microsoft.VisualStudio.Services.Icons.Default" alt="Babel JavaScript by Michael McDermott" width="30" />
