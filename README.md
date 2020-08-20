@@ -30,8 +30,6 @@ I will keep updating the list as per my usage.
 
 [Monokai One Dark Vivid by ashpowell](https://marketplace.visualstudio.com/items?itemName=ashpowell.monokai-one-dark-vivid) <img src="https://ashpowell.gallerycdn.vsassets.io/extensions/ashpowell/monokai-one-dark-vivid/0.13.0/1520587203026/Microsoft.VisualStudio.Services.Icons.Default" alt="Monokai One Dark Vivid by ashpowell" width="30" />
 
-[One Dark Pro by binaryify](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) <img src="https://zhuangtongfa.gallerycdn.vsassets.io/extensions/zhuangtongfa/material-theme/2.26.3/1565256399423/Microsoft.VisualStudio.Services.Icons.Default" alt="One Dark Pro by binaryify" width="30" />
-
 [Rainglow by Dayle Rees](https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow) <img src="https://daylerees.gallerycdn.vsassets.io/extensions/daylerees/rainglow/1.5.2/1515370316626/Microsoft.VisualStudio.Services.Icons.Default" alt="Rainglow by Dayle Rees" width="30" />
 
 [Seven-dark by lianginet](https://marketplace.visualstudio.com/items?itemName=lianginet.seven-dark) <img src="https://lianginet.gallerycdn.vsassets.io/extensions/lianginet/seven-dark/0.1.5/1563532286661/Microsoft.VisualStudio.Services.Icons.Default" alt="Seven-dark by lianginet" width="30" />
