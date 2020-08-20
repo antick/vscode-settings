@@ -34,8 +34,6 @@ I will keep updating the list as per my usage.
 
 [Seven-dark by lianginet](https://marketplace.visualstudio.com/items?itemName=lianginet.seven-dark) <img src="https://lianginet.gallerycdn.vsassets.io/extensions/lianginet/seven-dark/0.1.5/1563532286661/Microsoft.VisualStudio.Services.Icons.Default" alt="Seven-dark by lianginet" width="30" />
 
-[Signed Dark Pro by alex-munene](https://marketplace.visualstudio.com/items?itemName=alex-munene.signed-dark-pro) <img src="https://alex-munene.gallerycdn.vsassets.io/extensions/alex-munene/signed-dark-pro/1.4.0/1563627326408/Microsoft.VisualStudio.Services.Icons.Default" alt="Signed Dark Pro by alex-munene" width="30" />
-
 [Subway by idleberg](https://marketplace.visualstudio.com/items?itemName=idleberg.subway) <img src="https://idleberg.gallerycdn.vsassets.io/extensions/idleberg/subway-dark/1.0.6/1507668727132/Microsoft.VisualStudio.Services.Icons.Default" alt="Subway by idleberg" width="30" />
 
 [Subway (dark) by idleberg](https://marketplace.visualstudio.com/items?itemName=idleberg.subway-dark) <img src="https://idleberg.gallerycdn.vsassets.io/extensions/idleberg/subway-dark/1.0.6/1507668727132/Microsoft.VisualStudio.Services.Icons.Default" alt="Subway (dark) by idleberg" width="30" />
