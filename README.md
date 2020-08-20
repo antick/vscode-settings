@@ -36,8 +36,6 @@ I will keep updating the list as per my usage.
 
 [Subway by idleberg](https://marketplace.visualstudio.com/items?itemName=idleberg.subway) <img src="https://idleberg.gallerycdn.vsassets.io/extensions/idleberg/subway-dark/1.0.6/1507668727132/Microsoft.VisualStudio.Services.Icons.Default" alt="Subway by idleberg" width="30" />
 
-[Subway (dark) by idleberg](https://marketplace.visualstudio.com/items?itemName=idleberg.subway-dark) <img src="https://idleberg.gallerycdn.vsassets.io/extensions/idleberg/subway-dark/1.0.6/1507668727132/Microsoft.VisualStudio.Services.Icons.Default" alt="Subway (dark) by idleberg" width="30" />
-
 [SynthWave '84 by Robb Owen](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode) <img src="https://robbowen.gallerycdn.vsassets.io/extensions/robbowen/synthwave-vscode/0.0.7/1556882600501/Microsoft.VisualStudio.Services.Icons.Default" alt="SynthWave '84 by Robb Owen" width="30" />
 
 [Vue Theme by mariorodeghiero](https://marketplace.visualstudio.com/items?itemName=mariorodeghiero.vue-theme) <img src="https://mariorodeghiero.gallerycdn.vsassets.io/extensions/mariorodeghiero/vue-theme/1.1.2/1544785344333/Microsoft.VisualStudio.Services.Icons.Default" alt="Vue Theme by mariorodeghiero" width="30" />
